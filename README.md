@@ -1,16 +1,16 @@
 
-# Hey There, I'm Juliane Spinola 👋
+# Hey 👋, I'm Juliane Spinola 
 ![header](https://user-images.githubusercontent.com/66070265/133316986-fa31cb88-3151-4a58-946b-5c2c12e4389b.gif)
 
-### A little about Me 🙋‍♀️
+### A little about Me... 🙋‍♀️
 
 I am a full-time student of a BSc. in Computer Science at [Dublin Business School](https://dbs.ie), passionate about technology with great enthusiasm for learning and working with new technologies and enhancing abilities gained through experience in the business world. 
 
-- 💎 Work in progress: [Pentest Dashboard ](https://github.com/spinolaju/) Project
+- 💎 Work in progress: [Pentest Dashboard ](https://github.com/spinolaju/) project
 - 📚 I'm currently learning React JS ⚛
 - 👩 Pronouns: She/Her
 
-## 💻 Tech Stack
+## 💻 My Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -37,6 +37,8 @@ I am a full-time student of a BSc. in Computer Science at [Dublin Business Schoo
   <a href="https://www.linkedin.com/in/juliane-spinola" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
+  
+  
   
  
   
