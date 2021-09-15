@@ -26,7 +26,7 @@ I am a full-time student of a BSc. in Computer Science at [Dublin Business Schoo
  <br>
   <a href="https://github.com/spinolaju">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=spinolaju&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinolaju&layout=compact&langs_count=7&theme=radical&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spinolaju&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
  ![Snake animation](https://github.com/spinolaju/spinolaju/blob/output/github-contribution-grid-snake.svg)
