@@ -6,7 +6,7 @@
 
 I am a full-time student of a BSc. in Computer Science at [Dublin Business School](https://dbs.ie), passionate about technology with great enthusiasm for learning and working with new technologies and enhancing abilities gained through experience in the business world. 
 
-- 💎 Work in progress: [Pentest Dashboard ](https://github.com/spinolaju/) project
+- 💎 Work in progress: [Pentest Dashboard ](https://github.com/spinolaju/pentest-dashboard) project
 - 📚 I'm currently learning React JS ⚛
 - 👩 Pronouns: She/Her
 
