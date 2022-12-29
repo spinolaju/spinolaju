@@ -2,7 +2,7 @@
 # Hey 👋, I'm Juliane Spinola 
 ![header](https://user-images.githubusercontent.com/66070265/133316986-fa31cb88-3151-4a58-946b-5c2c12e4389b.gif)
 
-### A little about Me... 🙋‍♀️
+### A little about me... 🙋‍♀️
 
 I am a full-time student of a BSc. in Computer Science at [Dublin Business School](https://dbs.ie), passionate about technology, art and games with great enthusiasm for learning and working with new technologies and enhancing abilities gained through experience in the business world. 
 
