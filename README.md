@@ -23,8 +23,6 @@ I am a full-time student of a BSc. in Computer Science at [Dublin Business Schoo
   
   <br>
 </div>
-
-
  <div>
  <br>
   <a href="https://github.com/spinolaju">
